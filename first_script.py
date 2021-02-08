@@ -87,3 +87,4 @@ string5_replace = string5.replace(" ", ",")
 print("Output #33 (with commas): {0:s}".format(string5_replace))
 
 string6 = "Here's WHAT Happens WHEN You Use lower."
+print("Output #34: {0:s}".format(string6.lower()))
