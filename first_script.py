@@ -85,3 +85,5 @@ string5_replace = string5.replace(" ","!@!")
 print("Output #32: (with !@!): {0:s}".format(string5_replace))
 string5_replace = string5.replace(" ", ",")
 print("Output #33 (with commas): {0:s}".format(string5_replace))
+
+string6 = "Here's WHAT Happens WHEN You Use lower."
